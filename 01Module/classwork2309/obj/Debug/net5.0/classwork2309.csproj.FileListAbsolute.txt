@@ -1,0 +1,15 @@
+/Users/ilka/Projects/classwork2309/classwork2309/bin/Debug/net5.0/classwork2309.deps.json
+/Users/ilka/Projects/classwork2309/classwork2309/bin/Debug/net5.0/classwork2309.runtimeconfig.json
+/Users/ilka/Projects/classwork2309/classwork2309/bin/Debug/net5.0/classwork2309.runtimeconfig.dev.json
+/Users/ilka/Projects/classwork2309/classwork2309/bin/Debug/net5.0/classwork2309.dll
+/Users/ilka/Projects/classwork2309/classwork2309/bin/Debug/net5.0/ref/classwork2309.dll
+/Users/ilka/Projects/classwork2309/classwork2309/bin/Debug/net5.0/classwork2309.pdb
+/Users/ilka/Projects/classwork2309/classwork2309/obj/Debug/net5.0/classwork2309.csproj.AssemblyReference.cache
+/Users/ilka/Projects/classwork2309/classwork2309/obj/Debug/net5.0/classwork2309.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilka/Projects/classwork2309/classwork2309/obj/Debug/net5.0/classwork2309.AssemblyInfoInputs.cache
+/Users/ilka/Projects/classwork2309/classwork2309/obj/Debug/net5.0/classwork2309.AssemblyInfo.cs
+/Users/ilka/Projects/classwork2309/classwork2309/obj/Debug/net5.0/classwork2309.csproj.CoreCompileInputs.cache
+/Users/ilka/Projects/classwork2309/classwork2309/obj/Debug/net5.0/classwork2309.dll
+/Users/ilka/Projects/classwork2309/classwork2309/obj/Debug/net5.0/ref/classwork2309.dll
+/Users/ilka/Projects/classwork2309/classwork2309/obj/Debug/net5.0/classwork2309.pdb
+/Users/ilka/Projects/classwork2309/classwork2309/obj/Debug/net5.0/classwork2309.genruntimeconfig.cache
