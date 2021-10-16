@@ -1,0 +1,15 @@
+/Users/ilka/Projects/seminar0110/seminar0110/bin/Debug/net5.0/seminar0110.deps.json
+/Users/ilka/Projects/seminar0110/seminar0110/bin/Debug/net5.0/seminar0110.runtimeconfig.json
+/Users/ilka/Projects/seminar0110/seminar0110/bin/Debug/net5.0/seminar0110.runtimeconfig.dev.json
+/Users/ilka/Projects/seminar0110/seminar0110/bin/Debug/net5.0/seminar0110.dll
+/Users/ilka/Projects/seminar0110/seminar0110/bin/Debug/net5.0/ref/seminar0110.dll
+/Users/ilka/Projects/seminar0110/seminar0110/bin/Debug/net5.0/seminar0110.pdb
+/Users/ilka/Projects/seminar0110/seminar0110/obj/Debug/net5.0/seminar0110.csproj.AssemblyReference.cache
+/Users/ilka/Projects/seminar0110/seminar0110/obj/Debug/net5.0/seminar0110.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilka/Projects/seminar0110/seminar0110/obj/Debug/net5.0/seminar0110.AssemblyInfoInputs.cache
+/Users/ilka/Projects/seminar0110/seminar0110/obj/Debug/net5.0/seminar0110.AssemblyInfo.cs
+/Users/ilka/Projects/seminar0110/seminar0110/obj/Debug/net5.0/seminar0110.csproj.CoreCompileInputs.cache
+/Users/ilka/Projects/seminar0110/seminar0110/obj/Debug/net5.0/seminar0110.dll
+/Users/ilka/Projects/seminar0110/seminar0110/obj/Debug/net5.0/ref/seminar0110.dll
+/Users/ilka/Projects/seminar0110/seminar0110/obj/Debug/net5.0/seminar0110.pdb
+/Users/ilka/Projects/seminar0110/seminar0110/obj/Debug/net5.0/seminar0110.genruntimeconfig.cache
