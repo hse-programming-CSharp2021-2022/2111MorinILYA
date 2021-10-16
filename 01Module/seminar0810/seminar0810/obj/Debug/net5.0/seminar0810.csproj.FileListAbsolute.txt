@@ -1,0 +1,5 @@
+/Users/ilka/Projects/seminar0810/seminar0810/obj/Debug/net5.0/seminar0810.csproj.AssemblyReference.cache
+/Users/ilka/Projects/seminar0810/seminar0810/obj/Debug/net5.0/seminar0810.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilka/Projects/seminar0810/seminar0810/obj/Debug/net5.0/seminar0810.AssemblyInfoInputs.cache
+/Users/ilka/Projects/seminar0810/seminar0810/obj/Debug/net5.0/seminar0810.AssemblyInfo.cs
+/Users/ilka/Projects/seminar0810/seminar0810/obj/Debug/net5.0/seminar0810.csproj.CoreCompileInputs.cache
