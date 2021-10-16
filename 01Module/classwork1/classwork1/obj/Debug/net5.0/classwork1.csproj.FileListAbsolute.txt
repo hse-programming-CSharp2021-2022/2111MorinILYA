@@ -1,0 +1,15 @@
+/Users/ilka/Projects/classwork1/classwork1/bin/Debug/net5.0/classwork1.deps.json
+/Users/ilka/Projects/classwork1/classwork1/bin/Debug/net5.0/classwork1.runtimeconfig.json
+/Users/ilka/Projects/classwork1/classwork1/bin/Debug/net5.0/classwork1.runtimeconfig.dev.json
+/Users/ilka/Projects/classwork1/classwork1/bin/Debug/net5.0/classwork1.dll
+/Users/ilka/Projects/classwork1/classwork1/bin/Debug/net5.0/ref/classwork1.dll
+/Users/ilka/Projects/classwork1/classwork1/bin/Debug/net5.0/classwork1.pdb
+/Users/ilka/Projects/classwork1/classwork1/obj/Debug/net5.0/classwork1.csproj.AssemblyReference.cache
+/Users/ilka/Projects/classwork1/classwork1/obj/Debug/net5.0/classwork1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilka/Projects/classwork1/classwork1/obj/Debug/net5.0/classwork1.AssemblyInfoInputs.cache
+/Users/ilka/Projects/classwork1/classwork1/obj/Debug/net5.0/classwork1.AssemblyInfo.cs
+/Users/ilka/Projects/classwork1/classwork1/obj/Debug/net5.0/classwork1.csproj.CoreCompileInputs.cache
+/Users/ilka/Projects/classwork1/classwork1/obj/Debug/net5.0/classwork1.dll
+/Users/ilka/Projects/classwork1/classwork1/obj/Debug/net5.0/ref/classwork1.dll
+/Users/ilka/Projects/classwork1/classwork1/obj/Debug/net5.0/classwork1.pdb
+/Users/ilka/Projects/classwork1/classwork1/obj/Debug/net5.0/classwork1.genruntimeconfig.cache
